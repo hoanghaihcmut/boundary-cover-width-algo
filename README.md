@@ -329,7 +329,7 @@ as $(Q_1,Q_2)$, $(Q_3,Q_4)$, and $(Q_5,Q_6)$. Each panel contains the
 polyhedron and its sequence plot. The triangular boundary cover and $G_i$ are
 gray, a maximizing point is red, and its shortest boundary chord is blue.
 Orange is the exact singleton sequence $W(Q_i;p_k)$, while blue is the sequence
-of incumbents $\omega_k$ from the full-$G_i$ run.
+of incumbents $\omega_k$ from the full- $G_i$ run.
 
 | Polyhedron | Maximizer | $\omega_0$ | $W(Q_i;G_i)$ | $t_G$ (s) | $t_{\{p_k\}}/t_G$ |
 | --- | ---: | ---: | ---: | ---: | ---: |
