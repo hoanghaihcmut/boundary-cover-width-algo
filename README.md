@@ -340,7 +340,7 @@ of incumbents $\omega_k$ from the full $G_i$ run.
 | $Q_5$ | $p_{19}$ | 0.4529708664 | 0.5234453466 | 0.0200 | 1.46 |
 | $Q_6$ | $p_2$ | 0.5893175477 | 0.6626558688 | 0.0188 | 1.34 |
 
-The full-$G_i$ and singleton implementations return the same $W(Q_i;G_i)$ in
+The full $G_i$ and singleton implementations return the same $W(Q_i;G_i)$ in
 all six cases. Complete measurements are in
 [`random_convex_polyhedra_3d.csv`](results/random_convex_polyhedra_3d/random_convex_polyhedra_3d.csv)
 and [`random_convex_polyhedra_3d.json`](results/random_convex_polyhedra_3d/random_convex_polyhedra_3d.json).
